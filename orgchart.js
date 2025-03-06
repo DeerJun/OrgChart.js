@@ -1,4 +1,3 @@
-//export default 
 class OrgChart {
   constructor(options) {
     this._name = 'OrgChart';
